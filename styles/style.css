@@ -1,0 +1,49 @@
+body{
+    background-color: antiquewhite;
+    font-family: Arial;
+}
+
+
+div{
+    min-height: 15rem;
+    height: fit-content;
+    text-align: left;
+    background-color: rgba(255, 255, 255, 0.785);
+    max-width: 50%;
+    border-radius: 8px;
+    box-shadow: 5px 5px 10px rgba(137, 136, 137, 0.759);
+}
+
+label{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+}
+
+#unit{
+    width: 16.25rem;
+}
+
+select{
+    width: 25%;
+    height: 1.5rem;
+    border-radius: 5px;
+    border-width: 1px;
+    color: rgb(3, 3, 3);
+    background-color: rgb(244, 232, 183);
+    box-shadow: 3px 3px 3px rgba(175, 173, 175, 0.444);
+}
+
+#input{
+    text-align: left;
+    width: 40%;
+    height: 1.5rem;
+    border-radius: 5px;
+    border-width: 1px;
+    color: rgb(3, 3, 3);
+    background-color: rgb(244, 232, 183);
+    box-shadow: 3px 3px 3px rgba(175, 173, 175, 0.444);
+}
+
+#io{
+    margin-left: 17.3%;
+}
